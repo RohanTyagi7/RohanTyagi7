@@ -88,7 +88,7 @@ I am currently learning C++, C#, Arduino coding, and ROS2!
 Well, you're in luck! 😄
 <p align="left">
 <img src="https://static.thenounproject.com/png/657408-200.png" width="40" />
-<a href="www.linkedin.com/in/rohan-tyagi-" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="100" /> </a>
+<a href="https://www.linkedin.com/in/rohan-tyagi-" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="100" /> </a>
 <img src="https://static.thenounproject.com/png/657408-200.png" width="40" />
 <a href="https://www.instagram.com/rohantyagi13/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" width="100" /></a>
 <img src="https://static.thenounproject.com/png/657408-200.png" width="40" />
