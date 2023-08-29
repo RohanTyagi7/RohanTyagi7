@@ -16,7 +16,7 @@ Hi! Welcome to my GitHub account...
 </ul> 
 ```
 
-I am currently learning C++, C#, Arduino coding, and ROS2!
+I am currently learning C++ and Arduino coding!
 <br></br>
 <h2> 🚀 &nbsp;Some Tools I Have Used</h2>
 <p align="left">
