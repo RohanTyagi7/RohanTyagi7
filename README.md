@@ -85,6 +85,12 @@ I am currently learning C++ and Arduino coding!
 <small>A simple ReactJS mobile application for my FRC team to keep track of student attendance at workshop meetings.</small>
 <br></br>
 
+<h4>🤺 REMatchify</h4>
+<small>Utilizing OCR to read an image of an FRC match schedule and displaying each match's teams, statistics, and time while also highlighting our team's matches.</small>
+
+<a href="https://rematchify.vercel.app/"><img src="https://static.vecteezy.com/system/resources/previews/016/090/917/non_2x/view-more-icon-on-white-background-view-more-button-sign-flat-style-vector.jpg" height="20"/></a>
+<br></br>
+
 <h2>Wanna Reach Out?</h2>
 Well, you're in luck! 😄
 <p align="center">
