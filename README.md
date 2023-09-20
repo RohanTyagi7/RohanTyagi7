@@ -79,6 +79,8 @@ I am currently learning C++ and Arduino coding!
 
 <h4>🤝 FNCUnited</h4>
 <small>Lead a group project between ~140 students across 20+ FNC teams to create one "united" scouting application for teams who may not have access or the ability to scout or attain scouting data during competition.</small>
+
+<a href="https://fnc-united.firebaseapp.com/"><img src="https://static.vecteezy.com/system/resources/previews/016/090/917/non_2x/view-more-icon-on-white-background-view-more-button-sign-flat-style-vector.jpg" height="20"/></a>
 <br></br>
 
 <h4>🙋 REAttend</h4>
