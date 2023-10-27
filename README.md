@@ -69,7 +69,7 @@ I am currently learning C++ and Arduino coding!
 <h4>📈 FRC4828 Drive Station</h4>
 <small>A dashboard and diagnostic display for FRC drivers to gain specific insight into the robot's statistics while driving. </small>
 
-<a href="https://github.com/RohanTyagi7/4828-Dashboard"><img src="https://static.vecteezy.com/system/resources/previews/016/090/917/non_2x/view-more-icon-on-white-background-view-more-button-sign-flat-style-vector.jpg" height="20"/></a>
+<a href="https://github.com/RohanTyagi7/4828-Dashboard/main"><img src="https://static.vecteezy.com/system/resources/previews/016/090/917/non_2x/view-more-icon-on-white-background-view-more-button-sign-flat-style-vector.jpg" height="20"/></a>
 <br></br>
 <h4>🚦 Green Light</h4>
 <small>Created and tested a driver-assist Android application intended to provide student and adult drivers with relevant statistics and log data to attain licenses/permits.</small>
