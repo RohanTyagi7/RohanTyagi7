@@ -78,7 +78,7 @@ I am currently learning C++ and Arduino coding!
 <br></br>
 
 <h4>🤝 FNCUnited</h4>
-<small>Lead a group project between ~140 students across 20+ FNC teams to create one "united" scouting application for teams who may not have access or the ability to scout or attain scouting data during competition.</small>
+<small>Lead a group project between ~170 students across 20+ FNC teams to create one "united" scouting application for teams who may not have access or the ability to scout or attain scouting data during competition.</small>
 
 <a href="https://fnc-united.firebaseapp.com/"><img src="https://static.vecteezy.com/system/resources/previews/016/090/917/non_2x/view-more-icon-on-white-background-view-more-button-sign-flat-style-vector.jpg" height="20"/></a>
 <br></br>
@@ -91,6 +91,12 @@ I am currently learning C++ and Arduino coding!
 <small>Utilizing OCR to read an image of an FRC match schedule and displaying each match's teams, statistics, and time while also highlighting our team's matches.</small>
 
 <a href="https://rematchify.vercel.app/"><img src="https://static.vecteezy.com/system/resources/previews/016/090/917/non_2x/view-more-icon-on-white-background-view-more-button-sign-flat-style-vector.jpg" height="20"/></a>
+<br></br>
+
+<h4>🤿 Marlyn Submersible</h4>
+<small>Coded and fabricated a full-sized research vessel designed to provide important real-time data and camera stream to a custom driver UI. Framework designed to allow future researchers to build on top of my work.</small>
+
+<a href="https://github.com/MATE-Leviathan/2024ResearchCode"><img src="https://static.vecteezy.com/system/resources/previews/016/090/917/non_2x/view-more-icon-on-white-background-view-more-button-sign-flat-style-vector.jpg" height="20"/></a>
 <br></br>
 
 <h2>Wanna Reach Out?</h2>
