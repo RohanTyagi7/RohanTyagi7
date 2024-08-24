@@ -8,6 +8,7 @@ Hi! Welcome to my GitHub account...
 <ul>
   <li>Java</li>
   <li>Python</li>
+  <li>Android Coding</li>
   <li>JavaScript</li>
   <li>HTML + CSS</li>
   <li>React Framework</li>
@@ -16,7 +17,7 @@ Hi! Welcome to my GitHub account...
 </ul> 
 ```
 
-I am currently learning C++ and Arduino coding!
+I am currently learning ROS2!
 <br></br>
 <h2> 🚀 &nbsp;Some Tools I Have Used</h2>
 <p align="left">
@@ -47,6 +48,12 @@ I am currently learning C++ and Arduino coding!
 </p>
 
 <h2>💻 &nbsp;My Projects</h2>
+<h4>🤿 Marlyn Submersible</h4>
+<small>Coded and fabricated a full-sized research vessel designed to provide important real-time data and camera stream to a custom driver UI. Framework designed to allow future researchers to build on top of my work.</small>
+
+<a href="https://github.com/MATE-Leviathan/2024ResearchCode"><img src="https://static.vecteezy.com/system/resources/previews/016/090/917/non_2x/view-more-icon-on-white-background-view-more-button-sign-flat-style-vector.jpg" height="20"/></a>
+<br></br>
+
 <h4>💰 Pricey</h4>
 <small>A price-tracking application scraping 5+ store websites for product information helping find the best ingredients to use when making a recipe, the best local real estate prices, gas prices, and much more! </small>
 
@@ -93,12 +100,6 @@ I am currently learning C++ and Arduino coding!
 <small>Utilizing OCR to read an image of an FRC match schedule and displaying each match's teams, statistics, and time while also highlighting our team's matches.</small>
 
 <a href="https://rematchify.vercel.app/"><img src="https://static.vecteezy.com/system/resources/previews/016/090/917/non_2x/view-more-icon-on-white-background-view-more-button-sign-flat-style-vector.jpg" height="20"/></a>
-<br></br>
-
-<h4>🤿 Marlyn Submersible</h4>
-<small>Coded and fabricated a full-sized research vessel designed to provide important real-time data and camera stream to a custom driver UI. Framework designed to allow future researchers to build on top of my work.</small>
-
-<a href="https://github.com/MATE-Leviathan/2024ResearchCode"><img src="https://static.vecteezy.com/system/resources/previews/016/090/917/non_2x/view-more-icon-on-white-background-view-more-button-sign-flat-style-vector.jpg" height="20"/></a>
 <br></br>
 
 <h4>🌊 Automated Ocean-Surface Trash and Debris Collector</h4>
