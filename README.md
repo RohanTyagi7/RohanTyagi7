@@ -8,7 +8,7 @@ Hi! Welcome to my GitHub account...
 <ul>
   <li>Java</li>
   <li>Python</li>
-  <li>Android Coding</li>
+  <li>Arduino Coding</li>
   <li>JavaScript</li>
   <li>HTML + CSS</li>
   <li>React Framework</li>
