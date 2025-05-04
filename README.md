@@ -48,18 +48,21 @@ I am currently learning ROS2!
 </p>
 
 <h2>💻 &nbsp;My Projects</h2>
+<img src="marlyn.png" alt="Marlyn" width="400" />
 <h4>🤿 Marlyn Submersible</h4>
 <small>Coded and fabricated a full-sized research vessel designed to provide important real-time data and camera stream to a custom driver UI. Framework designed to allow future researchers to build on top of my work.</small>
 
 <a href="https://github.com/MATE-Leviathan/2024ResearchCode"><img src="https://static.vecteezy.com/system/resources/previews/016/090/917/non_2x/view-more-icon-on-white-background-view-more-button-sign-flat-style-vector.jpg" height="20"/></a>
 <br></br>
 
+<img src="pricey.png" alt="Marlyn" width="400" />
 <h4>💰 Pricey</h4>
 <small>A price-tracking application scraping 5+ store websites for product information helping find the best ingredients to use when making a recipe, the best local real estate prices, gas prices, and much more! </small>
 
 <a href="https://pricey-app.vercel.app/"><img src="https://static.vecteezy.com/system/resources/previews/016/090/917/non_2x/view-more-icon-on-white-background-view-more-button-sign-flat-style-vector.jpg" height="20"/></a>
 <br></br>
 
+<img src="rescout.png" alt="Marlyn" width="400" />
 <h4>🦅 REScout</h4>
 <small>An FRC scouting mobile application for the 2023 season containing game prediction software and team-tracking information to aid in creating the best possible alliance.</small>
 
@@ -67,6 +70,7 @@ I am currently learning ROS2!
 <sup>*Entry Key: "48ROBOEAGLES28"</sup>
 <br></br>
 
+<img src="scientail.png" alt="Marlyn" width="400" />
 <h4>🧪 Scientail.org</h4>
 <small>A general informational website for a local nonprofit.</small>
 
@@ -78,6 +82,8 @@ I am currently learning ROS2!
 
 <a href="https://github.com/RohanTyagi7/4828-Dashboard/tree/main"><img src="https://static.vecteezy.com/system/resources/previews/016/090/917/non_2x/view-more-icon-on-white-background-view-more-button-sign-flat-style-vector.jpg" height="20"/></a>
 <br></br>
+
+[<img src="https://img.youtube.com/vi/PC6A35KGx3Q/maxresdefault.jpg" alt="Marlyn" width="400" />](https://youtu.be/PC6A35KGx3Q)
 <h4>🚦 Green Light</h4>
 <small>Created and tested a driver-assist Android application intended to provide student and adult drivers with relevant statistics and log data to attain licenses/permits.</small>
 
