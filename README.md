@@ -77,6 +77,7 @@ I am currently learning ROS2!
 <a href="https://scientail.org"><img src="https://static.vecteezy.com/system/resources/previews/016/090/917/non_2x/view-more-icon-on-white-background-view-more-button-sign-flat-style-vector.jpg" height="20"/></a>
 <br></br>
 
+<img src="reds.png" alt="Marlyn" width="400" />
 <h4>📈 FRC4828 Drive Station</h4>
 <small>A dashboard and diagnostic display for FRC drivers to gain specific insight into the robot's statistics while driving. </small>
 
