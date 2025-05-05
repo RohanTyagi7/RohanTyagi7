@@ -13,7 +13,7 @@ Hi! Welcome to my GitHub account...
   <li>HTML + CSS</li>
   <li>React Framework</li>
   <li>Android + Apple App Development</li>
-  <li>Discord Bots</li>
+  <li>Building ROVs</li>
 </ul> 
 ```
 
