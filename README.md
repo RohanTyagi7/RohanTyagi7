@@ -1,4 +1,4 @@
-# <img src="https://sdk.bitmoji.com/render/panel/20048676-100297074676_1-s5-v1.png?transparent=1&palette=1&scale=1" width="100" height="100"/> About Me
+# <img src="https://sdk.bitmoji.com/render/panel/20091002-100297074676_1-s5-v1.png?transparent=1&palette=1&scale=2" width="100" height="100"/> About Me
 Hi! Welcome to my GitHub account...
 
 <h2>❤️ &nbsp;My Interests</h2>
